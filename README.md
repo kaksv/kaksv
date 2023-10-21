@@ -1,4 +1,4 @@
-[I continue to make sure that my Markdown is updated based on the projects that i engage in]
+[//]: # (This is a test for my own comments)
 [![MasterHead](https://noretake.com/upload/githubbanner.gif)](https://kakooza.cranewebhosting.com)
 <h1 align="center">Hi 👋, I'm Kakooza Vianey</h1>
 <h3 align="center">A passionate Developer, Web3 Enthusiast and AI</h3>
